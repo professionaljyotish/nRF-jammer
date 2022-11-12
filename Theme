@@ -1,0 +1,7 @@
+Step 1:- 
+  /////// apt update && apt upgrade 
+Step 2 :- 
+ ////////  install git package
+ Step 3 :- #Git clone command 
+ ///////  git clone https://github.com/adi1090x/termux-style.git
+ Step 4 :- 
